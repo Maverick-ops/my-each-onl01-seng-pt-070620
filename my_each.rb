@@ -5,4 +5,3 @@ my_each(collection) do |i|
     yield array[i]
   # code here
 end
-end
